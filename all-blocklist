@@ -1,0 +1,150 @@
+##############################
+# SOCIAL MEDIA
+##############################
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 fb.com
+0.0.0.0 www.fb.com
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 x.com
+0.0.0.0 www.x.com
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+0.0.0.0 linkedin.com
+0.0.0.0 www.linkedin.com
+0.0.0.0 threads.net
+0.0.0.0 www.threads.net
+0.0.0.0 weibo.com
+0.0.0.0 www.weibo.com
+
+##############################
+# VIDEO STREAMING
+##############################
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 hulu.com
+0.0.0.0 www.hulu.com
+0.0.0.0 primevideo.com
+0.0.0.0 www.primevideo.com
+0.0.0.0 disneyplus.com
+0.0.0.0 www.disneyplus.com
+0.0.0.0 crunchyroll.com
+0.0.0.0 www.crunchyroll.com
+0.0.0.0 vimeo.com
+0.0.0.0 www.vimeo.com
+
+##############################
+# GAMING + GAME PLATFORMS
+##############################
+0.0.0.0 steampowered.com
+0.0.0.0 store.steampowered.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 roblox.com
+0.0.0.0 www.roblox.com
+0.0.0.0 epicgames.com
+0.0.0.0 www.epicgames.com
+0.0.0.0 fortnite.com
+0.0.0.0 www.fortnite.com
+0.0.0.0 riotgames.com
+0.0.0.0 www.riotgames.com
+0.0.0.0 leagueoflegends.com
+0.0.0.0 www.leagueoflegends.com
+0.0.0.0 minecraft.net
+0.0.0.0 www.minecraft.net
+0.0.0.0 ea.com
+0.0.0.0 www.ea.com
+
+##############################
+# ENTERTAINMENT & NEWS
+##############################
+0.0.0.0 buzzfeed.com
+0.0.0.0 www.buzzfeed.com
+0.0.0.0 boredpanda.com
+0.0.0.0 www.boredpanda.com
+0.0.0.0 9gag.com
+0.0.0.0 www.9gag.com
+0.0.0.0 wikihow.com
+0.0.0.0 www.wikihow.com
+0.0.0.0 yahoo.com
+0.0.0.0 www.yahoo.com
+0.0.0.0 cnn.com
+0.0.0.0 www.cnn.com
+0.0.0.0 bbc.com
+0.0.0.0 www.bbc.com
+
+##############################
+# SHOPPING / E-COMMERCE
+##############################
+0.0.0.0 amazon.com
+0.0.0.0 www.amazon.com
+0.0.0.0 ebay.com
+0.0.0.0 www.ebay.com
+0.0.0.0 shopee.com
+0.0.0.0 www.shopee.com
+0.0.0.0 lazada.com
+0.0.0.0 www.lazada.com
+0.0.0.0 etsy.com
+0.0.0.0 www.etsy.com
+0.0.0.0 aliexpress.com
+0.0.0.0 www.aliexpress.com
+
+##############################
+# MESSAGING (WEB)
+##############################
+0.0.0.0 messenger.com
+0.0.0.0 www.messenger.com
+0.0.0.0 web.whatsapp.com
+0.0.0.0 telegram.org
+0.0.0.0 web.telegram.org
+0.0.0.0 discord.com
+0.0.0.0 www.discord.com
+0.0.0.0 discord.gg
+
+##############################
+# ADVERTISING / TRACKING
+##############################
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 adservice.google.com
+0.0.0.0 analytics.google.com
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 connect.facebook.net
+0.0.0.0 pixel.facebook.com
+0.0.0.0 staticxx.facebook.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 ads.youtube.com
+
+##############################
+# RANDOM DISTRACTION SITES
+##############################
+0.0.0.0 quora.com
+0.0.0.0 www.quora.com
+0.0.0.0 medium.com
+0.0.0.0 www.medium.com
+0.0.0.0 deviantart.com
+0.0.0.0 www.deviantart.com
+0.0.0.0 imgur.com
+0.0.0.0 www.imgur.com
+0.0.0.0 knowyourmeme.com
+0.0.0.0 www.knowyourmeme.com
+0.0.0.0 fandom.com
+0.0.0.0 www.fandom.com
