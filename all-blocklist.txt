@@ -95,10 +95,10 @@
 0.0.0.0 www.amazon.com
 0.0.0.0 ebay.com
 0.0.0.0 www.ebay.com
-0.0.0.0 shopee.com
-0.0.0.0 www.shopee.com
-0.0.0.0 lazada.com
-0.0.0.0 www.lazada.com
+0.0.0.0 shopee.ph
+0.0.0.0 www.shopee.ph
+0.0.0.0 lazada.com.ph
+0.0.0.0 www.lazada.com.ph
 0.0.0.0 etsy.com
 0.0.0.0 www.etsy.com
 0.0.0.0 aliexpress.com
@@ -148,3 +148,7 @@
 0.0.0.0 www.knowyourmeme.com
 0.0.0.0 fandom.com
 0.0.0.0 www.fandom.com
+0.0.0.0 pesolink.site
+0.0.0.0 www.pesolink.site
+0.0.0.0 iskolardrt.site
+0.0.0.0 www.iskolardrt.site
